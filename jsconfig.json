@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "baseUrl": "." // pasta atual do arquivo jsconfig.json - raiz do projeto
+  }
+}
